@@ -1,4 +1,118 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PropertiesComponent">{}</component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7381cbaa-10ce-43f1-aed1-e690e88202f6" name="Changes" comment="create project">
+      <change afterPath="$PROJECT_DIR$/task1/c4-container.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task1/error-saga.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task1/saga.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task1/success-saga.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task2/ADR-Order-History.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task2/architecture-task2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task3/deployment.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task3/hpa-replicas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task3/hpa.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task3/locustfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task3/service.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task4/circuit-breaker.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task4/rate-limit.conf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "vladapexskr-bit"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/vladapexskr-bit/MSA-3-NovaMarket.git",
+    "accountId": "787fd58d-b4fb-458c-a4e7-3b2aefdc4cac"
+  }
+}]]></component>
+  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="3LbJFum7xznHlimcmwjLwP8saW3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "task",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/HappyUser/IdeaProjects/MSA-3-NovaMarket/task2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HappyUser\IdeaProjects\MSA-3-NovaMarket\task2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HappyUser\IdeaProjects\MSA-3-NovaMarket\task1" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.28539.54" />
+        <option value="bundled-js-predefined-d6986cc7102b-a71380e98a7c-JavaScript-IU-252.28539.54" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7381cbaa-10ce-43f1-aed1-e690e88202f6" name="Changes" comment="" />
+      <created>1793716733781</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793716733781</updated>
+      <workItem from="1793716735055" duration="4543000" />
+    </task>
+    <task id="LOCAL-00001" summary="create project">
+      <option name="closed" value="true" />
+      <created>1793716966162</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1793716966162</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="create project" />
+    <option name="LAST_COMMIT_MESSAGE" value="create project" />
+  </component>
 </project>
